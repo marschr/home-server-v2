@@ -8,3 +8,6 @@ To install `wakeonlan` on Ubuntu 24.04, run the following command:
 ```bash
 sudo apt install -y wakeonlan
 ```
+
+## TODO:
+Review these: https://gjs.guide/extensions/review-guidelines/review-guidelines.html
