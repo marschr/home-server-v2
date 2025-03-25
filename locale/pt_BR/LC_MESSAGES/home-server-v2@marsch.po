@@ -48,4 +48,31 @@ msgid "Debug Mode:"
 msgstr "Modo de Depuração:"
 
 msgid "Version:"
-msgstr "Versão:" 
+msgstr "Versão:"
+
+msgid "Detect MAC"
+msgstr "Detectar MAC"
+
+msgid "Please enter a valid IP address first"
+msgstr "Por favor, insira um endereço IP válido primeiro"
+
+msgid "MAC address detected and applied"
+msgstr "Endereço MAC detectado e aplicado"
+
+msgid "Could not detect MAC address for the given IP"
+msgstr "Não foi possível detectar o endereço MAC para o IP fornecido"
+
+msgid "Error detecting MAC address: "
+msgstr "Erro ao detectar endereço MAC: "
+
+msgid "Error executing ARP command: "
+msgstr "Erro ao executar o comando ARP: "
+
+msgid "Error"
+msgstr "Erro"
+
+msgid "Success"
+msgstr "Sucesso"
+
+msgid "OK"
+msgstr "OK" 
