@@ -1,0 +1,14 @@
+{
+  "name": "Home Server",
+  "uuid": "home-server-v2@marsch",
+  "description": "A simple indicator that shows home-server status (online/offline) on the main panel. Allows triggering wake-on-LAN. For WOL functionality, it's necessary to have 'wakeonlan' installed. Made compatible with GNOME 45+ based on the Home Server extension from https://www.sven-kramer.eu/linux/gnome-shell-extension/home-server/.",
+  "settings-schema": "org.gnome.shell.extensions.home-server",
+  "shell-version": [
+    "45",
+    "46"
+  ],
+  "url": "https://github.com/marschr/home-server-v2",
+  "version": 2,
+  "minor": 0,
+  "revision": 0
+} 

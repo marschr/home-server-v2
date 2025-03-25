@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.home-server" path="/org/gnome/shell/extensions/home-server/">
+    <key name="serverip" type="s">
+      <default>'192.168.178.1'</default>
+      <summary>Server IP address</summary>
+      <description>IP address of the server to check status</description>
+    </key>
+    <key name="servermac" type="s">
+      <default>'00:00:00:00:00:00'</default>
+      <summary>Server MAC address</summary>
+      <description>MAC address of the server for Wake-on-LAN</description>
+    </key>
+    <key name="serverpoll" type="i">
+      <default>30</default>
+      <summary>Server polling interval</summary>
+      <description>Time in seconds between status checks</description>
+    </key>
+    <key name="serverdebug" type="b">
+      <default>false</default>
+      <summary>Debug mode</summary>
+      <description>Enable or disable debug logging</description>
+    </key>
+  </schema>
+</schemalist> 
