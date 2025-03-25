@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: home-server-v2@marsch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-17 12:00+0000\n"
+"PO-Revision-Date: 2024-04-17 12:00+0000\n"
+"Last-Translator: Sven Kramer <sve.kramer@gmail.com>\n"
+"Language-Team: German <sve.kramer@gmail.com>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "Server"
+msgstr "Server"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Start Server"
+msgstr "Starte Server"
+
+msgid "Start Server now. Please wait..."
+msgstr "Server wird gestartet. Bitte warten..."
+
+msgid "Start Server failed"
+msgstr "Server konnte nicht gestartet werden"
+
+msgid "Start Server failed. Already installed wakeonlan?"
+msgstr "Server konnte nicht gestartet werden. Wakeonlan bereits installiert?"
+
+msgid "Home Server Settings"
+msgstr "Home Server Einstellungen"
+
+msgid "Server IP:"
+msgstr "Server IP:"
+
+msgid "Server MAC:"
+msgstr "Server MAC:"
+
+msgid "Server Poll:"
+msgstr "Server Intervall:"
+
+msgid "Time in seconds between server status checks"
+msgstr "Zeit in Sekunden zwischen Server-Statusprüfungen"
+
+msgid "Debug Mode:"
+msgstr "Debug-Modus:"
+
+msgid "Version:"
+msgstr "Version:" 
